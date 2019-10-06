@@ -1,11 +1,11 @@
 name: "my-website"
 output_dir : "."
 navbar:
-  title: "My Website"
+  title: "Leszczuk Andres A."
   left:
-    - text: "Home"
+    - text: "Principal"
       href: index.html
-    - text: "About"
+    - text: "Secundaria"
       href: about.html
 output:
   html_document:
