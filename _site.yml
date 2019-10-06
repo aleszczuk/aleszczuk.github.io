@@ -11,4 +11,4 @@ output:
   html_document:
     theme: united
     highlight: textmate
-    number_section:true
+    number_section: true
