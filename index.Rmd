@@ -1,11 +1,12 @@
 ---
 title: "My Website"
+output: html_document
 runtime: shiny
 ---
 
 ### Calculadora de productividad para Tractores Auto Cargables
 
-```{r, echo=TRUE}
+```{r, echo=FALSE}
 
 library(shiny)
 library(ggplot2)
