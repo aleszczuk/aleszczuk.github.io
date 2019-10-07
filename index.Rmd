@@ -6,7 +6,7 @@ runtime: shiny
 
 ### Calculadora de productividad para Tractores Auto Cargables
 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 
 library(shiny)
 library(ggplot2)
