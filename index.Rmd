@@ -36,7 +36,7 @@ library(scales)
 
 ui <- fluidPage(
   # Titulo ----
-  titlePanel("Tiempos de actividades"),
+  titlePanel("Tiempos de actividades "),
   # Definicion del menu de entrada y salida ----
   sidebarLayout(
     # Sidebar para demostrar varias opciones de menu ----
